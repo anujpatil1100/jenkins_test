@@ -1,1 +1,1 @@
-ptt("Anuj Patil")
+print("Anuj Patil")
